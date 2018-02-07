@@ -53,8 +53,8 @@ if (is_home()) {
 	<td width='33%' style='text-align: center;'><a href='/forum'><img src='/news/wp-content/themes/bastheme2/forum-button.png' alt='Forum' /></a><br />&nbsp;</td>
 	<td width='33%' style='text-align: center;'><a href='/news/calendar'><img src='/news/wp-content/themes/bastheme2/when-button.png' alt='Calendar' /></a><br />&nbsp;</td></tr>
 	<tr>
-	<td width='33%' style='text-align: center;'><a href='mailto:marcus@basingstokeanimesociety.com'><img src='/news/wp-content/themes/bastheme2/email.png' alt='Contact Us' /></a></td>
-	<td width='33%' style='text-align: center;'><a href='/news/map'><img src='/news/wp-content/themes/bastheme2/where.png' alt='Map' /></a></td>
+	<td width='33%' style='text-align: center;'><a href='mailto:marcus@basingstokeanimesociety.com'><img src='/news/wp-content/themes/bastheme2/email-button.png' alt='Contact Us' /></a></td>
+	<td width='33%' style='text-align: center;'><a href='/news/map'><img src='/news/wp-content/themes/bastheme2/where-button.png' alt='Map' /></a></td>
 	</tr></table>
 
 	<?php
