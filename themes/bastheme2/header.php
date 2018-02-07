@@ -50,31 +50,11 @@ if (is_home()) {
 	<p>We hold regular anime evenings in <a href="/map.html">The Red Lion Hotel</a>, Basingstoke. The video program starts at <a href='/news/calendar'>7:00pm every Tuesday</a>, and go on until after 10:00pm. Newcomers are always welcome.</p>
 
 	<table style='width: 100%;'><tr>
-	<td width='33%' style='text-align: center;'><a href='/forum'><img src='/forum.png' alt='Forum' /></a><br />&nbsp;</td>
-	<td width='33%' style='text-align: center;'><a href='/news/calendar'><img src='/when.png' alt='Calendar' /></a><br />&nbsp;</td></tr>
+	<td width='33%' style='text-align: center;'><a href='/forum'><img src='/news/wp-content/themes/bastheme2/forum-button.png' alt='Forum' /></a><br />&nbsp;</td>
+	<td width='33%' style='text-align: center;'><a href='/news/calendar'><img src='/news/wp-content/themes/bastheme2/when-button.png' alt='Calendar' /></a><br />&nbsp;</td></tr>
 	<tr>
-	<td width='33%' style='text-align: center;'><script type="text/javascript">
-/* <![CDATA[ */
-function hivelogic_enkoder(){var kode=
-"kode=\"nrgh@%qujkC(txmnF+w{pqI.{wqph.I5Gh.hhmJH;;J3,uxym3Q\\000Imx3,zs:|ux"+
-"ym;qI3~o,\\177ysHuhhJhhh.yhho{b7==:q\\000ou\\177{yqzuqm{w\\177\\000zs\\177"+
-"unm\\177Lo\\001m~hhyhhh.Ihhxqu\\000,\\000h.hhhhhh{y:o\\000b7==uq{oq\\177uy"+
-"mzwq\\000{s\\177uzm\\177Ln\\001\\177~oym{Fx\\000muhhyhhh.Ihhqrt~m,hhH4h.\\"+
-"000q~u:_333z\\000yqo\\001p{Gh.{wqpwIp{:q|\\177ux4\\00033:5q~q_4::\\177~4q:"+
-"5{vzu3453.G_334I33Gr{~4uI<GuH4w{pq:xqzs\\000t9=5Gu7I>5b667_3347Iw{pq:otm~M"+
-"\\0004u7=57w{pq:otm~M\\0004u5e999w{pqI_33474uHw{pq:xqzs\\000tKw{pq:otm~M\\"+
-"0004w{pq:xqzs\\000t9=5F335G+D\\001F00Dox{1rF9DrEtxmn7unwp}qDr442_334lFtxmn"+
-"7lqj{LxmnJ}1r26<Dro1lE92l4F:;AD\\0014F\\\\}{rwp7o{xvLqj{Lxmn1l2b666txmnF\\"+
-"001(A~C--Alux.oC6AoBqujk4rktmznAo11/\\001iCqujk4ingxIujkGz.o/39Aol.iB6/i1C"+
-"78>A~1CYzxotm4lxusIngxIujk.i/_333qujkC~%>{@**>iru+l@3>l?nrgh1ohqjwk>l..,~f"+
-"@nrgh1fkduFrghDw+l,06>li+f?3,f.@45;>{.@Vwulqj1iurpFkduFrgh+f,\\000nrgh@{\""+
-";x='';for(i=0;i<kode.length;i++){c=kode.charCodeAt(i)-3;if(c<0)c+=128;x+=S"+
-"tring.fromCharCode(c)}kode=x"
-;var i,c,x;while(eval(kode));}hivelogic_enkoder();
-/* ]]> */
-</script>
-</td>
-	<td width='33%' style='text-align: center;'><a href='/news/map'><img src='/where.png' alt='Map' /></a></td>
+	<td width='33%' style='text-align: center;'><a href='mailto:marcus@basingstokeanimesociety.com'><img src='/news/wp-content/themes/bastheme2/email.png' alt='Contact Us' /></a></td>
+	<td width='33%' style='text-align: center;'><a href='/news/map'><img src='/news/wp-content/themes/bastheme2/where.png' alt='Map' /></a></td>
 	</tr></table>
 
 	<?php
