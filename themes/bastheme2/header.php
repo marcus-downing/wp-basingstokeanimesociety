@@ -37,7 +37,7 @@
 <div style="position: absolute; z-index: 4; top: 19px; left: 165px;"><a href='/news'><img src='/news/wp-content/themes/bastheme2/news2.png' alt="News" /></a></div>
 <div style="position: absolute; z-index: 4; top: 120px; left: 165px;"><a href='/forum'><img src='/news/wp-content/themes/bastheme2/forum.png' alt="Forum" /></a></div>
 <div style="position: absolute; z-index: 4; top: 236px; left: 165px;"><a href='/news/calendar'><img src='/news/wp-content/themes/bastheme2/when.png' alt="When: Calender and Times" /></a></div>
-<div style="position: absolute; z-index: 4; top: 347px; left: 165px;"><a href='/map.html'><img src='/news/wp-content/themes/bastheme2/where.png' alt="Where: Map and Directions" /></a></div>
+<div style="position: absolute; z-index: 4; top: 347px; left: 165px;"><a href='/news/map'><img src='/news/wp-content/themes/bastheme2/where.png' alt="Where: Map and Directions" /></a></div>
 <div style="position: absolute; z-index: 4; top: 465px; left: 165px;"><a href='/gallery.html'><img src='/news/wp-content/themes/bastheme2/gallery.png' alt="Omake-kun's Gallery" /></a></div>
 
 <div id="rap">
